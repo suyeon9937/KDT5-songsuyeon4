@@ -51,7 +51,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="https://ifh.cc/g/2np8b6.png" alt="User">
+        <img src="https://ifh.cc/g/7QrFfq.png" alt="User">
       </a>
     `
   }

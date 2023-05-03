@@ -12,7 +12,7 @@ html {
 }
 body {
   background-color: var(--color-black);
-  font-family:  "Roboto", sans-serif;
+  font-family: 'Permanent Marker', cursive;
   line-height: 1.6;
   color: var(--color-white);
 }
@@ -112,8 +112,8 @@ header {
   gap: 70px;
 }
 header .logo {
-  font-size: 40px;
-  font-family: "Oswald", sans-serif;
+  font-size: 46px;
+  font-family: 'Permanent Marker', cursive;
   color: var(--color-white-50);
   text-decoration: none;
 }
@@ -181,7 +181,7 @@ footer a:hover {
   margin-bottom: 40px;
 }
 .headline h1 {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Permanent Marker', cursive;
   font-size: 80px;
   line-height: 1;
   margin-bottom: 40px;
@@ -311,7 +311,7 @@ footer a:hover {
 }
 .the-movie .title {
   font-size: 70px;
-  font-family: "Oswald", sans-serif;
+  font-family: 'Permanent Marker', cursive;
   line-height: 1;
   color: var(--color-white);
   margin-bottom: 30px;
@@ -334,7 +334,7 @@ footer a:hover {
 }
 .the-movie h3 {
   font-size: 20px;
-  font-family: "Oswald", sans-serif;
+  font-family: 'Permanent Marker', cursive;
   color: var(--color-white);
   margin: 24px 0 6px;  
 }
@@ -358,8 +358,8 @@ footer a:hover {
 
 
 .about .photo {
-  width: 230px;
-  height: 230px;
+  width: 240px;
+  height: 240px;
   margin: 0 auto 20px;
   border-radius: 10px;
   background-size: cover;
@@ -367,7 +367,7 @@ footer a:hover {
 }
 .about .name {
   font-size: 40px;
-  font-family: "Oswald", sans-serif;
+  font-family: 'Permanent Marker', cursive;
   margin-bottom: 20px;
 }
 .about p {
