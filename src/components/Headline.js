@@ -9,7 +9,7 @@ export default class Headline extends Component {
         MOVIE SEARCH !
       </h1>
       <p>
-      영화 검색 사이트
+      SONG.CINE 영화 검색 사이트
       </p>
     `
   }

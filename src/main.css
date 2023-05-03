@@ -13,7 +13,7 @@ html {
 body {
   background-color: var(--color-black);
   font-family:  "Roboto", sans-serif;
-  line-height: 1.4;
+  line-height: 1.6;
   color: var(--color-white);
 }
 .container {
@@ -36,7 +36,7 @@ body {
   height: 50px;
   padding: 0 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 50px;
   outline: none;
   font-size: 14px;
   font-weight: 700;
@@ -109,10 +109,10 @@ header {
   z-index: 9;
   display: flex;
   align-items: flex-end;
-  gap: 40px;
+  gap: 70px;
 }
 header .logo {
-  font-size: 20px;
+  font-size: 40px;
   font-family: "Oswald", sans-serif;
   color: var(--color-white-50);
   text-decoration: none;
@@ -122,10 +122,10 @@ header .logo span {
 }
 header nav ul {
   display: flex;
-  gap: 14px;
+  gap: 30px;
 }
 header nav ul li a {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   color: var(--color-white-50);
   text-decoration: none;
@@ -208,7 +208,7 @@ footer a:hover {
   flex-grow: 1;
   height: 50px;
   padding: 0 20px;
-  border-radius: 4px;
+  border-radius: 50px;
   border: none;
   outline: none;
   font-size: 14px;
@@ -226,11 +226,11 @@ footer a:hover {
 
 .movie-list {
   padding: 20px;
-  border-radius: 4px;
+  border-radius: 50px;
   background-color: var(--color-area);
 }
 .movie-list .message {
-  color: var(--color-primary);
+  color: var(--color-white-50);
   font-size: 20px;
   text-align: center;
 }

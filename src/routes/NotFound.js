@@ -5,8 +5,8 @@ export default class NotFound extends Component {
     this.el.classList.add('container', 'not-found')
     this.el.innerHTML = /* html */ `
     <h1>
-      Sorry..<br>
-      Page Not Found
+      죄송합니다..<br>
+      페이지를 찾을 수 없습니다.
     </h1>
     `
   }

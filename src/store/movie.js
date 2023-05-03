@@ -7,7 +7,7 @@ const store = new Store({
   movies: [],
   movie: {},                   
   loading: false,
-  message: 'Search for the movie title!'
+  message: '영화 제목을 검색해 보세요'
 })
 
 export default store
